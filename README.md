@@ -11,7 +11,7 @@ This repository explores the "Abalone" dataset
 ### 2. Do the shell and meat grow at different rates?  
 ![difference](https://user-images.githubusercontent.com/70524391/206378426-55923e08-13e6-44fe-95b1-e59733e843ed.png)
 
-✨ Yes, the grow at different rates. The meat grows faster than the shell. There is a huge difference in growth around the teen years of the abalone.
+✨ Yes, the shell and meat grow at different rates. The meat grows faster than the shell. There is a huge difference in growth around the teen years of the abalone.
 
 ### 3. Which variables have the most impact on the amount of meat present in an abalone?
 ![features](https://user-images.githubusercontent.com/70524391/206378524-5de9c669-f924-4046-96ae-74120e0f9081.png)
