@@ -30,6 +30,6 @@ This repository explores the "Abalone" dataset
     - Female
     - Male
     - Infant
-_Note: This is based from a Random Forest Regressor_
-
+_Note: This is based from a Random Forest Regressor_  
+  
 Interestingly, even though viscera weight was the 2nd most highly correlated data with meat weight, it was not the 2nd most important variable in determining the amount of meat present in an abalone.
