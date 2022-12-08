@@ -19,7 +19,7 @@ This repository explores the "Abalone" dataset
 
 ✨ Answer:
 1. __Whole weight__ was the most important variable in determining the amount of meat present in an abalone.
-2. The second most important variable was the __weight of the shell__ of the abalone.
+2. The second most important variable was the __weight of the shell__  of the abalone.
 3. This is followed by:
     - Rings
     - Age
@@ -29,7 +29,7 @@ This repository explores the "Abalone" dataset
     - Height
     - Female
     - Male
-    - Infant
-_Note: This is based from a Random Forest Regressor_  
+    - Infant  
+_Note: Feature importances derived from a Random Forest Regressor_  
   
 Interestingly, even though viscera weight was the 2nd most highly correlated data with meat weight, it was not the 2nd most important variable in determining the amount of meat present in an abalone.
